@@ -1,4 +1,4 @@
-#GuessMaster App
+# GuessMaster App
 GuessMaster is an interactive Android app prototype where users can play guessing games with entities to test their knowledge and have fun.
 
 ## Installation
